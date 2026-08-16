@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Logo.png
+image: img/logo.png
 title: "Inventory Management System"
 date: 2026
 published: true
