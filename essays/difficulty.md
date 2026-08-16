@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Real Madrid champion league run"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2026-08-15
 published: true
 labels:
   - Engineering
