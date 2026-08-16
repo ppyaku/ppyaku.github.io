@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: Logo.png
 title: "Inventory Management System"
 date: 2026
 published: true
