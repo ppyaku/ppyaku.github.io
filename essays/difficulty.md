@@ -9,6 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 
 Real Madrid’s Champions League run is always exciting because of the club’s history and experience in the competition. They are known for staying calm under pressure, fighting until the final whistle, and making big moments count. Their strong teamwork, talented players, and winning mentality make them one of the toughest teams to face in the Champions League.
