@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Prakash Pyakurel",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ppyaku.png",
+    "email": "ppyaku5426@my.sullivan.edu",
+    "phone": "502-851-3052",
+    "website": "https://ppyaku.github.io",
+    "summary": "I am studying for a assoiate degree in informational tech at Sulliven university.",
+    "location": { "address": "", "postalCode": "40291", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Informational Tech" },
+    { "name": "Soccer" },
+    { "name": "Traveling" },
+    { "name": "Cars" },
+    { "name": "Religion" }
   ],
   "skills": [
     {
