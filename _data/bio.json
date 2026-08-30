@@ -9,10 +9,9 @@
     "summary": "I am studying for a assoiate degree in informational tech at Sulliven university.",
     "location": { "address": "", "postalCode": "40291", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ppyaku", "url": "https://github.com/ppyaku" },
+      { "network": "linkedin", "username": "Prakash Pyakurel", "url": "https://www.linkedin.com/in/prakash-pyakurel-923701423/" },
+      
     ]
   },
   "interests": [
